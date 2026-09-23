@@ -1,6 +1,6 @@
 {
-    "name": "wemx/sso-pterodactyl",
-    "description": "Allows clients from WemX login to their Pterodactyl account with a single redirect",
+    "name": "itix4/sso-pterodactyl",
+    "description": "Allows clients from WemX login to their Pterodactyl account with a single redirect. For new pterodactyl version",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,8 +12,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": "^8.0|^8.1|^8.2|^8.3",
-        "illuminate/support": "^10.0|^11.0"
+        "php": "^8.0|^8.1|^8.2|^8.3"
     },
     "autoload": {
         "psr-4": {
