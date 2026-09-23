@@ -1,21 +1,21 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/wemx/sso-pterodactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-pterodactyl)
 [![Total Downloads](https://img.shields.io/packagist/dt/wemx/sso-pterodactyl.svg?style=flat-square)](https://packagist.org/packages/wemx/sso-pterodactyl)
 
-# Laravel SSO
+# Laravel SSO for new pterodactyl
 
 Laravel SSO is a package for implementing Single Sign-On (SSO) authorizations in your Laravel project. This package allows you to authorize users on a Laravel panel from another website.
 
 ## Requirements
 
 - PHP 8.0 or higher
-- Laravel 10 or higher
+- Laravel 10 or higher 
 
 ## Installation
 
 To install the package, use Composer:
 
 ```bash
-composer require wemx/sso-pterodactyl
+composer require itix4/sso-pterodactyl
 ```
 
 ## Configuration
